@@ -12,3 +12,12 @@
     color:rgb(0, 0, 0)2, 255);
     font-weight: bolder;
 }
+
+.propaganda{
+    height: 500px;
+    background-color: black;
+    background: url("cortina\ 1.jpg");
+    background size: contain;
+    background-repeat: no-repeat;
+
+}
